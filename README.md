@@ -159,7 +159,7 @@ Future work will include:
 ---
 
 ## Repository Structure
-
+```
 nairobi-air-quality-timeseries/
 
 │
@@ -170,7 +170,10 @@ nairobi-air-quality-timeseries/
 ├── images/  
 │   └── air_quality_four_panel.png  
 
-└── README.md
+├── README.md
+
+└── requirements.txt
+```
 
 ---
 ## Author
